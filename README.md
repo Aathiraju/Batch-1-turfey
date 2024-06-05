@@ -14,3 +14,6 @@ Steps to use:
 5.	To get authentication you will be needed a FIGMA account.
 6.	That’s it now you can use the prototype and experience it.
 
+contact: gowri005shankar@gmail.com 
+
+Contact for Prototype authentication.
